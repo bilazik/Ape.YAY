@@ -1,7 +1,7 @@
 Introduction
 ============
 
-<img src="http://res.cloudinary.com/gatec21/image/upload/v1459799224/logo_blk_svgsqp.png" alt="CoPilot Logo" style="padding-left: 40%">
+<img src="http://ipeye.ru/img/logo/onsite2.png" alt="IPeye Logo" style="padding-left: 40%">
 
 **CoPilot** is a fully responsive admin template that is forked from [AdminLTE](https://almsaeedstudio.com). The difference here is that this repo is tailored to use with vue.js. The UI is based on the [Bootstrap 3](https://github.com/twbs/bootstrap) framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
 
